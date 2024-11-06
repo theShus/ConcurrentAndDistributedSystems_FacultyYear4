@@ -1,0 +1,331 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3a70e3cc-aace-4049-80ac-29187f61373c" name="Changes" comment="updatovan commands.txt file">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/job/crawler/DirectoryCrawler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/job/crawler/DirectoryCrawler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/logger/Logger.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/logger/Logger.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+        <option value="Enum" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2NMnrX4lPzMLLj7C9dP3pCbrC1M" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/resources/example/data3/corpus_troll" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Shus\Programming\IdeaProjects\Year 4\Kids_domaci_1\src\main\resources\example\data3\corpus_troll" />
+      <recent name="C:\Users\Shus\Programming\IdeaProjects\Year 4\Kids_domaci_1\src\main\java\scanner" />
+      <recent name="C:\Users\Shus\Programming\IdeaProjects\Year 4\Kids_domaci_1\src\main\resources" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="result" />
+      <recent name="job" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Kids_domaci_1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3a70e3cc-aace-4049-80ac-29187f61373c" name="Changes" comment="" />
+      <created>1679483017549</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1679483017549</updated>
+      <workItem from="1679483018932" duration="31311000" />
+      <workItem from="1679564735299" duration="36711000" />
+      <workItem from="1679649678824" duration="16043000" />
+      <workItem from="1679666920313" duration="5958000" />
+      <workItem from="1679741192469" duration="10092000" />
+      <workItem from="1679925224209" duration="2556000" />
+      <workItem from="1679949808294" duration="611000" />
+      <workItem from="1680040090821" duration="3180000" />
+      <workItem from="1680081699666" duration="1473000" />
+    </task>
+    <task id="LOCAL-00001" summary="Prolaz kroz direktorijume, i pocet rad na job-ovima">
+      <created>1679516269629</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1679516269629</updated>
+    </task>
+    <task id="LOCAL-00002" summary="podesen addJobToQueue (bez dodavanja) da radi pravilno">
+      <created>1679519811326</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1679519811326</updated>
+    </task>
+    <task id="LOCAL-00003" summary="postavljeni file scanner i file worker (sledece result retriever)">
+      <created>1679572305415</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1679572305415</updated>
+    </task>
+    <task id="LOCAL-00004" summary="namesten cli da prima jednu liniju">
+      <created>1679584731455</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1679584731455</updated>
+    </task>
+    <task id="LOCAL-00005" summary="dodat result retriever (getResult)">
+      <created>1679585819113</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1679585819113</updated>
+    </task>
+    <task id="LOCAL-00006" summary="zavrsen ResultRetriever za corpus">
+      <created>1679586902258</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1679586902258</updated>
+    </task>
+    <task id="LOCAL-00007" summary="ulepsan print i cli">
+      <created>1679587651307</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1679587651307</updated>
+    </task>
+    <task id="LOCAL-00008" summary="uradnjen ResultRetriever i dodati pozivi za cli">
+      <created>1679588991661</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1679588991661</updated>
+    </task>
+    <task id="LOCAL-00009" summary="dodat web scanner (treba da se uradi retriever)">
+      <created>1679609126624</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1679609126624</updated>
+    </task>
+    <task id="LOCAL-00010" summary="vraceno da koristi sleepTime is propertyStorage">
+      <created>1679654981928</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1679654981928</updated>
+    </task>
+    <task id="LOCAL-00011" summary="nista bitno">
+      <created>1679654993284</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1679654993284</updated>
+    </task>
+    <task id="LOCAL-00012" summary="napravljen domain sum worker">
+      <created>1679655012624</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1679655012624</updated>
+    </task>
+    <task id="LOCAL-00013" summary="zavrseno get web domain results i get all web domain results">
+      <created>1679655613754</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1679655613754</updated>
+    </task>
+    <task id="LOCAL-00014" summary="podeseni query i summary za web">
+      <created>1679659001815</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1679659001815</updated>
+    </task>
+    <task id="LOCAL-00015" summary="dodato da se skenira samo jednom url, i auto remove nakon nekog vremena">
+      <created>1679662898607</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1679662898607</updated>
+    </task>
+    <task id="LOCAL-00016" summary="dodato brisanje rezultata (pre ciscenja koda)">
+      <created>1679665316787</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1679665316787</updated>
+    </task>
+    <task id="LOCAL-00017" summary="removed todos">
+      <created>1679665380326</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1679665380326</updated>
+    </task>
+    <task id="LOCAL-00018" summary="code clean up">
+      <created>1679665630842</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1679665630842</updated>
+    </task>
+    <task id="LOCAL-00019" summary="dodat logger, napisani komentari (ima web domain scanner bug)">
+      <created>1679679129666</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1679679129666</updated>
+    </task>
+    <task id="LOCAL-00020" summary="dodat cash za web domain i query web domain">
+      <created>1679745398135</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1679745398135</updated>
+    </task>
+    <task id="LOCAL-00021" summary="error catcher za pogresan file dir">
+      <created>1679746156505</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1679746156505</updated>
+    </task>
+    <task id="LOCAL-00022" summary="error catcher za pogresan file dir">
+      <created>1679746187821</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1679746187821</updated>
+    </task>
+    <task id="LOCAL-00023" summary="dodat error catcher za pogresan url">
+      <created>1679747360819</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1679747360819</updated>
+    </task>
+    <task id="LOCAL-00024" summary="dodat error catcher za pogresan url">
+      <created>1679747373832</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1679747373832</updated>
+    </task>
+    <task id="LOCAL-00025" summary="dodati scheckovi za cws, i popravljeno brisanje za domain">
+      <created>1679749817215</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1679749817215</updated>
+    </task>
+    <task id="LOCAL-00026" summary="dodati checkovi za file type">
+      <created>1679751145458</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1679751145458</updated>
+    </task>
+    <task id="LOCAL-00027" summary="updatovan commands.txt file">
+      <created>1679751274262</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1679751274262</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Prolaz kroz direktorijume, i pocet rad na job-ovima" />
+    <MESSAGE value="podesen addJobToQueue (bez dodavanja) da radi pravilno" />
+    <MESSAGE value="postavljeni file scanner i file worker (sledece result retriever)" />
+    <MESSAGE value="namesten cli da prima jednu liniju" />
+    <MESSAGE value="dodat result retriever (getResult)" />
+    <MESSAGE value="zavrsen ResultRetriever za corpus" />
+    <MESSAGE value="ulepsan print i cli" />
+    <MESSAGE value="uradnjen ResultRetriever i dodati pozivi za cli" />
+    <MESSAGE value="dodat web scanner (treba da se uradi retriever)" />
+    <MESSAGE value="vraceno da koristi sleepTime is propertyStorage" />
+    <MESSAGE value="nista bitno" />
+    <MESSAGE value="napravljen domain sum worker" />
+    <MESSAGE value="zavrseno get web domain results i get all web domain results" />
+    <MESSAGE value="podeseni query i summary za web" />
+    <MESSAGE value="dodato da se skenira samo jednom url, i auto remove nakon nekog vremena" />
+    <MESSAGE value="dodato brisanje rezultata (pre ciscenja koda)" />
+    <MESSAGE value="removed todos" />
+    <MESSAGE value="code clean up" />
+    <MESSAGE value="dodat logger, napisani komentari (ima web domain scanner bug)" />
+    <MESSAGE value="dodat cash za web domain i query web domain" />
+    <MESSAGE value="error catcher za pogresan file dir" />
+    <MESSAGE value="dodat error catcher za pogresan url" />
+    <MESSAGE value="dodati scheckovi za cws, i popravljeno brisanje za domain" />
+    <MESSAGE value="dodati checkovi za file type" />
+    <MESSAGE value="updatovan commands.txt file" />
+    <option name="LAST_COMMIT_MESSAGE" value="updatovan commands.txt file" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Kids_domaci_1$Main.ic" NAME="Main Coverage Results" MODIFIED="1679566282935" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>

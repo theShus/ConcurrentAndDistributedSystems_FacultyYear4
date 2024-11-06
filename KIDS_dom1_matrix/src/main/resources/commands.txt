@@ -1,0 +1,20 @@
+dir src/main/resources/matrix_data_test
+
+info C3
+info -all
+info -asc
+info -desc
+info -s 3
+info -e 3
+
+multiply A1 C1
+multiply A1 C1 -async
+multiply A1 C1 -name new_name1
+multiply A1 C1 -async -name new_name2
+
+save -name A1C1 -file new_save
+
+clear a1
+clear a1_test.rix
+
+stop
